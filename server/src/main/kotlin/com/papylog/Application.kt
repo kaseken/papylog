@@ -1,6 +1,6 @@
-package com.example
+package com.papylog
 
-import com.example.plugins.*
+import com.papylog.plugins.*
 import io.ktor.server.application.*
 
 fun main(args: Array<String>) {
